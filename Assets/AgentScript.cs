@@ -12,7 +12,7 @@ public class AgentScript : MonoBehaviour
 
     NavMeshAgent agent;
         
-    //tes
+    
     // Start is called before the first frame update
     void Start()
     {
